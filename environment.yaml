@@ -4,5 +4,6 @@ channels:
 dependencies:
   - python=3.9.*
   - pip
+  - dvc-s3
   - pip:
     - -e ."[dev]"
