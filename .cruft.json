@@ -1,0 +1,19 @@
+{
+  "template": "https://github.com/diegocanales/cookiecutter-mlops.git",
+  "commit": "f1e211cd57582c9c6f19e167328391a88bac9e89",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "repo_name": "aqi-forecast",
+      "project_name": "AQI Forecast",
+      "author_name": "Diego Canales",
+      "description": "A short description of the project.",
+      "package_name": "aqi_forecast",
+      "conda_env": "aqi_forecast",
+      "docker_image": "aqi_forecast",
+      "ml_project": "yes",
+      "_template": "https://github.com/diegocanales/cookiecutter-mlops.git"
+    }
+  },
+  "directory": null
+}
