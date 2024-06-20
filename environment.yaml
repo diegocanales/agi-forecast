@@ -5,5 +5,7 @@ dependencies:
   - python=3.9.*
   - pip
   - dvc-s3
+  - pandas
+  - matplotlib
   - pip:
     - -e ."[dev]"
